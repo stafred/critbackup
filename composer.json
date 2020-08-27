@@ -1,0 +1,24 @@
+{
+    "name": "stafred/critbackup",
+    "description": "Crit Project Backup",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "stafred",
+            "email": "stafred.framework@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Critbackup\\": "src/"
+        },
+        "classmap": [
+        ],
+        "files": [
+        ]
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php" : "7.3.*"
+    }
+}
