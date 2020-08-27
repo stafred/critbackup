@@ -1,9 +1,11 @@
 <?php
 
-
 namespace Critbackup;
 
-
+/**
+ * Class CritHelper
+ * @package Critbackup
+ */
 class CritHelper
 {
     /**
