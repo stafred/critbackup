@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7672f9f5-2997-4e51-b43b-d351f2135407" name="Default Changelist" comment="update #0001">
+    <list default="true" id="7672f9f5-2997-4e51-b43b-d351f2135407" name="Default Changelist" comment="update #0001-fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
@@ -36,6 +36,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1ggBfGbU7hYAqw1pgvuDBQ4KtAd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,7 +46,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../modules/php/PHP_8.0.14/php.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,7 +63,8 @@
       <workItem from="1621446676695" duration="8000" />
       <workItem from="1621446687826" duration="2000" />
       <workItem from="1621446693060" duration="5000" />
-      <workItem from="1640170167495" duration="46000" />
+      <workItem from="1640170167495" duration="363000" />
+      <workItem from="1640184116146" duration="33000" />
     </task>
     <task id="LOCAL-00001" summary="update #0001">
       <created>1598526503327</created>
@@ -76,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598527185834</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update #0001-fix">
+      <created>1640170239320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640170239320</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,33 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update #0001" />
-    <option name="LAST_COMMIT_MESSAGE" value="update #0001" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="335" y="0" key="CommitChangelistDialog2" timestamp="1598527185376">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="335" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1598527185376" />
-    <state x="236" y="130" key="DiffContextDialog" timestamp="1604051270755">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state x="236" y="130" key="DiffContextDialog/0.0.1440.870@0.0.1440.870" timestamp="1604051270755" />
-    <state x="447" y="131" key="FileChooserDialogImpl" timestamp="1604061612332">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state x="447" y="131" key="FileChooserDialogImpl/0.0.1440.870@0.0.1440.870" timestamp="1604061612332" />
-    <state x="136" y="69" key="MergeDialog" timestamp="1604051292172">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state x="136" y="69" key="MergeDialog/0.0.1440.870@0.0.1440.870" timestamp="1604051292172" />
-    <state x="273" y="138" key="MultipleFileMergeDialog" timestamp="1604051293639">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state x="273" y="138" key="MultipleFileMergeDialog/0.0.1440.870@0.0.1440.870" timestamp="1604051293639" />
-    <state x="312" y="164" key="Vcs.Push.Dialog.v2" timestamp="1604051271653">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1598527190355" />
-    <state x="312" y="164" key="Vcs.Push.Dialog.v2/0.0.1440.870@0.0.1440.870" timestamp="1604051271653" />
+    <MESSAGE value="update #0001-fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="update #0001-fix" />
   </component>
 </project>
