@@ -1,24 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7672f9f5-2997-4e51-b43b-d351f2135407" name="Default Changelist" comment="">
+    <list default="true" id="7672f9f5-2997-4e51-b43b-d351f2135407" name="Default Changelist" comment="update #0001">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="43333042-b00b-43a2-a664-e4027e70ce67" />
   </component>
   <component name="ProjectId" id="1ggBfGbU7hYAqw1pgvuDBQ4KtAd" />
   <component name="ProjectViewState">
@@ -27,7 +43,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,6 +57,10 @@
       <option name="presentableId" value="Default" />
       <updated>1598526457022</updated>
       <workItem from="1598526458155" duration="1331000" />
+      <workItem from="1621446676695" duration="8000" />
+      <workItem from="1621446687826" duration="2000" />
+      <workItem from="1621446693060" duration="5000" />
+      <workItem from="1640170167495" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="update #0001">
       <created>1598526503327</created>
@@ -59,6 +82,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update #0001" />
     <option name="LAST_COMMIT_MESSAGE" value="update #0001" />
@@ -68,9 +103,26 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="335" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1598527185376" />
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1598527190355">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="236" y="130" key="DiffContextDialog" timestamp="1604051270755">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="236" y="130" key="DiffContextDialog/0.0.1440.870@0.0.1440.870" timestamp="1604051270755" />
+    <state x="447" y="131" key="FileChooserDialogImpl" timestamp="1604061612332">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="447" y="131" key="FileChooserDialogImpl/0.0.1440.870@0.0.1440.870" timestamp="1604061612332" />
+    <state x="136" y="69" key="MergeDialog" timestamp="1604051292172">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="136" y="69" key="MergeDialog/0.0.1440.870@0.0.1440.870" timestamp="1604051292172" />
+    <state x="273" y="138" key="MultipleFileMergeDialog" timestamp="1604051293639">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="273" y="138" key="MultipleFileMergeDialog/0.0.1440.870@0.0.1440.870" timestamp="1604051293639" />
+    <state x="312" y="164" key="Vcs.Push.Dialog.v2" timestamp="1604051271653">
+      <screen x="0" y="0" width="1440" height="870" />
     </state>
     <state x="312" y="162" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1598527190355" />
+    <state x="312" y="164" key="Vcs.Push.Dialog.v2/0.0.1440.870@0.0.1440.870" timestamp="1604051271653" />
   </component>
 </project>
